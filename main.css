@@ -1,0 +1,41 @@
+body{
+    background:#E2AC7F;
+    font-family: Comic Sans, Comic Sans MS, cursive;
+    padding:0;
+    margin:0;
+    width:100%;
+    text-align: center;
+
+}
+#wrap ul li{
+    list-style: none;
+    text-align: center;
+}
+#wrap ul{
+    margin:0 auto;
+    padding:0px;
+}
+#wrap p , #wrap h1{
+    padding: 0px 15px;
+}
+#wrap ul li::first-letter{
+    font-size: 140%;
+}
+#wrap h1{
+    border-bottom: 2px dotted black;
+    margin:0 auto;
+
+}
+#wrap{
+    width: 80%;
+    margin: 0 auto;
+    border:2px dotted black;
+    background: #F5F5DC;
+
+}
+#wrap .copyright{
+
+    border-top:2px dotted black;
+    padding-bottom: 10px;
+    margin:0px
+}
