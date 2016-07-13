@@ -12,7 +12,7 @@ The thumbnails are not very representative, but this challenge requires you to c
 Click on an image for a closer view.
 Hint 2: to get the wrap division to stay centred, you'll need to set the left and right margins to a_t_ (you've got to fill in the blanks).
 
-![alt tag](https://upload.wikimedia.org/wikiversity/en/thumb/b/bd/Css1_1.png/800px-Css1_1.png)
+![alt tag](https://upload.wikimedia.org/wikipedia/commons/c/c1/Cssthingy.png)
 ```html
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
    "http://www.w3.org/TR/html4/strict.dtd">
