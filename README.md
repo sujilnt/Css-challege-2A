@@ -55,4 +55,4 @@ Hint 2: to get the wrap division to stay centred, you'll need to set the left an
 </html>
 
 ```
-here is what I have done https://sujilnt.github.io/Css-challege-2/ ..
+here is what I have done https://sujilnt.github.io/Css-challege-2A/ ..
